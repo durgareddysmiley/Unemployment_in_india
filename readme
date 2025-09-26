@@ -1,0 +1,83 @@
+# 📊 Unemployment in India – Power BI Dashboard (2018–2024)
+
+This project presents a comprehensive *Power BI Dashboard* visualizing *unemployment trends across India* from 2018 to 2024. It highlights socio-economic patterns, gender disparities, rural-urban employment dynamics, and state-wise unemployment data.
+
+---
+
+## 🎯 Objectives
+
+- Analyze unemployment variations across Indian states over time.
+- Compare gender-based unemployment differences.
+- Contrast rural vs. urban employment.
+- Identify consistent or seasonal trends in unemployment.
+- Enable *evidence-based decision-making* for policies.
+---
+
+## 📁 Dataset Overview
+
+- *Source*: Structured CSV file (800 records)
+- *Time Period*: 2018–2024
+- *States*: 10 key Indian states
+- *Columns*:
+  - State, Year, Month
+  - Unemployment Rate (%)
+  - Population_in_Thousands (e.g., “3.46k”)
+  - Labour_Force_k, Employed_k, Unemployed_k
+  - Male_Unemployed_k, Female_Unemployed_k
+  - Area_Type (Rural/Urban)
+
+---
+
+## 📊 Dashboard Features
+
+- *Bar Chart*: Year-wise total labour force
+- *Pie Chart*: Gender-wise unemployment share
+- *Line Graph*: Unemployment trend over the years
+- *Donut Chart*: Rural vs Urban unemployment
+- *Map Visual*: State-wise unemployment intensity
+- *KPIs*:
+  - Average Labour Force: 3.03k
+  - Total Unemployed: 228.1K
+  - Avg. Unemployment Rate: 7.52%
+
+---
+
+## 🔍 Key Insights
+
+- *2021 spike* in unemployment due to COVID-19
+- *Higher male unemployment* (but also more men in workforce)
+- Urban & rural areas have *similar unemployment shares*
+- *State-level differences* reveal regional inequality
+
+---
+
+## 💡 Recommendations
+
+- Launch *skill enhancement* and *digital upskilling* programs
+- Promote *gender-inclusive employment policies*
+- Develop *localized employment schemes* in high-unemployment states
+- Encourage *remote work* and *freelancing*
+- Increase *FDI* to create job opportunities
+- Provide *career counseling* and *training guidance*
+
+---
+
+## ✅ Conclusion
+
+This Power BI dashboard offers a clear, interactive view of unemployment in India. With timely insights and visual storytelling, this project helps policymakers, researchers, and citizens understand the ongoing labour market dynamics and *take action to reduce unemployment* through data-driven strategies.
+
+---
+
+## 📌 Tech Stack
+
+- *Tool*: Power BI, Python, Pandas, Scikit-learn, Matplotlib
+- *Language*: Data cleaning & preparation in Python / Excel
+- *Visualization*: Charts, KPIs, Maps
+
+---
+
+## 📎 Author
+
+*TETALA BHANU SURYA DURGA REDDY,Nichenakolla Sri Pragnya,VADALI PRABHAS MALLIK*.
+📍 Andhra Pradesh, India  
+📧 durgareddytetala39@gmail.com,sripragnya27.n@gmail.com,prabhasmallik886@gmail.com
